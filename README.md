@@ -1,2 +1,3 @@
 # docker_tutorial
-/Users/Neha/docker Project/docker_tutorial/README.md
+
+This project demonstrates the integration of Docker and PostgreSQL to fetch and manage data from the web. I set up a Docker environment with two containers: one for PostgreSQL and another for managing data operations. Using SQL, I created tables, inserted data retrieved from a web source, and executed various SQL queries directly from the terminal. The operations performed include data insertion, selection, updating, and deletion—each producing real-time results. This project showcases practical experience with containerization, relational databases, and SQL-based data manipulation.
